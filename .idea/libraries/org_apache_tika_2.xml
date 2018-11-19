@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.apache.tika 2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JAR/org.apache.tika 2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JAR/org.apache.tika 3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JAR/org.apache.tika.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JAR/tika-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

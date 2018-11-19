@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.apache.tika.parsers">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JAR/org.apache.tika.parsers.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

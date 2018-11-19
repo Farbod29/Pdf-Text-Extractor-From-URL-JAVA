@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="bcmail-jdk14">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../bin/bcmail-jdk14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../bin/bcprov-ext-jdk14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../bin/bcprov-jdk14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../bin/PDFOne.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../bin/PDFOneJavaViewer_Executable.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../bin/xfe_jdk-14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../bin/PDFOneJavaViewer_Executable.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../bin/PDFOne.jar!/" />
+    </SOURCES>
+  </library>
+</component>
