@@ -1,4 +1,4 @@
-## Pdf text extractor java From url
+## Pdf text extractor java From url Pdf parser 
 
 combination of: 
 org.apache.pdfbox.pdmodel.PDDocument 
@@ -17,4 +17,5 @@ aprin.freddy@gmail.com
 
 Avereage RUntime 9sec
 
- - PDF EXTRACT URL TEXT REMOTE SERVER DOWNLOAD PDF JAVA PDF EXTERACTOR STRING PDFEXTRACTOR JAVA URL TEXT CONTENT 
+ - PDF EXTRACT URL TEXT REMOTE SERVER DOWNLOAD PDF JAVA PDF EXTERACTOR STRING PDFEXTRACTOR JAVA URL TEXT CONTENT PARSE PDF 
+ PARSE REMOTE PDF GITHUB 
