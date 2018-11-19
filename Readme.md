@@ -14,3 +14,7 @@ then extract text from pdf file address automatically and display in console
 
 ### HOPE YOU ENJOY 
 aprin.freddy@gmail.com
+
+Avereage RUntime 9sec
+
+ - PDF EXTRACT TEXT REMOTE SERVER DOWNLOAD PDF JAVA PDF EXTERACTOR STRING 
